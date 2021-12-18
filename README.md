@@ -2,7 +2,7 @@
 javascript written in ECMAScript 2015 (ES6)
 
 ## Installation
-Use NPM - Node Package Manager ( https://www.npmjs.com ) to install dependencies.
+Use NPM - Node Package Manager ( https://www.npmjs.com ) to install following dependencies.
 
 
 ```bash
